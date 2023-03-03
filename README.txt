@@ -13,3 +13,8 @@ Action Items:
  - Update the Copyright ...from 'static' to 'dynamic' :)
  3:16
  Updated the defualt index pages title
+ 3:23
+ Decided to make the font for the index pages title gothic medium ebcause ikt fits with the book store theme.
+ Mar/3/2023
+ 3:16
+ Confirmed the repo is built ...now i want to test it...
