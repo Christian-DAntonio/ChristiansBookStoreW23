@@ -24,3 +24,5 @@ Action Items:
  Added a new bootstrap file to the ls folder. hope it works 
  4:31
  It still does!!!!!!!!!!!!!!!!!!!!!!!
+ 4:38
+ Asked for some help with andrew steele and he said that He will help me with it on Thursday.
