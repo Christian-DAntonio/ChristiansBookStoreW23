@@ -20,3 +20,7 @@ Action Items:
  Confirmed the repo is built ...now i want to test it...
  3:33
  Just a test to se if the commits are updating on Github
+ 4:30
+ Added a new bootstrap file to the ls folder. hope it works 
+ 4:31
+ It still does!!!!!!!!!!!!!!!!!!!!!!!
