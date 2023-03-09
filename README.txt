@@ -44,3 +44,5 @@ Action Items:
  I can't wait!!!!!!!!!!!!!!!
  3:03
  More projects within the project? LOL! But I got them in without error with a bit of assistance from another classmate.
+ 3:21
+ Just downlaoded the rRelational and SQL server packages.
