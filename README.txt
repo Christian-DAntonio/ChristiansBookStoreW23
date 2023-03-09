@@ -50,3 +50,7 @@ Action Items:
  After alot of trouble with the other 3 projects, I finally got them to work properly. I had the wrong version when makin the the other 3 projects. almost done.
  4:08
  Good news is: got the project onto the othe rcomputer, which is nice, bad news is, the othe rproject wouldnt run, so I had to make new ones.
+ 4:16
+ Caught up fro where I was last time, which was downloading the last framwork (identity).
+ 4:19
+ Just built the project and it went well. Im making progress!!!!!!!!!!!!!!!!!!!!!!!!!
