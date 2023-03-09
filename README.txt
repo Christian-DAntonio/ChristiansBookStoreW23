@@ -26,3 +26,6 @@ Action Items:
  It still does!!!!!!!!!!!!!!!!!!!!!!!
  4:38
  Asked for some help with andrew steele and he said that He will help me with it on Thursday.
+ Mar/9/2023
+ 2:00 PM
+ It feels like I have been here in ages. I hope I can complete this project by eithe rtoday or tommorow, since I'm going on a vaction to Las Vegas on Saturday.
