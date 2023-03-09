@@ -39,3 +39,6 @@ Action Items:
  I just realised I forgot to remove the "text-dark" feature on the "privacy" button. lol. I just changed.
  2:30
  Added the links from the"CSS_text" file on Blackboard to the Layout.cshtml. the site still works with them on.
+ 2:47
+ There where some errors with the dropdown menu that he wanted, but with a little bit of help from one of my classmates, I got it work. i'm nearing the completion of this assignment.
+ I can't wait!!!!!!!!!!!!!!!
