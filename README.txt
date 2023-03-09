@@ -33,3 +33,5 @@ Action Items:
  The site.css problem from the last time I was here was resolved and I got it on my site. I hope the site still works!!!!!!!!
  2:13
  It still does work!!!!!!!!!! It also worked properly since it gave my site more defintion. Time to finally move on.
+ 2:21
+ Made alot of really exicting changes this time. I added alot of features that make my website look like a real website now.
