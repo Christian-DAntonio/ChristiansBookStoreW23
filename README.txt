@@ -54,3 +54,5 @@ Action Items:
  Caught up fro where I was last time, which was downloading the last framwork (identity).
  4:19
  Just built the project and it went well. Im making progress!!!!!!!!!!!!!!!!!!!!!!!!!
+ 4:52
+ I almost lost the whole assignment!!!! I made one massive mistake that almost costed me the whole project with the Add project Refrence part!!!!!!!! Thankfullly I rembered that I can undo some changes on Visual Studio, So i'm good so far. I'm getting to the point of finally being done.
