@@ -35,3 +35,5 @@ Action Items:
  It still does work!!!!!!!!!! It also worked properly since it gave my site more defintion. Time to finally move on.
  2:21
  Made alot of really exicting changes this time. I added alot of features that make my website look like a real website now.
+ 2:24
+ I just realised I forgot to remove the "tyext-dark" feature on the "privacy" button. lol. I just changed.
