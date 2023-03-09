@@ -48,3 +48,5 @@ Action Items:
  Just downlaoded the relational and SQL server packages.
  3:46
  After alot of trouble with the other 3 projects, I finally got them to work properly. I had the wrong version when makin the the other 3 projects. almost done.
+ 4:08
+ Good news is: got the project onto the othe rcomputer, which is nice, bad news is, the othe rproject wouldnt run, so I had to make new ones.
