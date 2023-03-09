@@ -29,3 +29,7 @@ Action Items:
  Mar/9/2023
  2:00 PM
  It feels like I have been here in ages. I hope I can complete this project by eithe rtoday or tommorow, since I'm going on a vaction to Las Vegas on Saturday.
+ 2:12
+ The site.css problem from the last time I was here was resolved and I got it on my site. I hope the site still works!!!!!!!!
+ 2:13
+ It still does work!!!!!!!!!! It also worked properly since it gave my site more defintion. Time to finally move on.
