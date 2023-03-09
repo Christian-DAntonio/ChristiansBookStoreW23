@@ -36,4 +36,6 @@ Action Items:
  2:21
  Made alot of really exicting changes this time. I added alot of features that make my website look like a real website now.
  2:24
- I just realised I forgot to remove the "tyext-dark" feature on the "privacy" button. lol. I just changed.
+ I just realised I forgot to remove the "text-dark" feature on the "privacy" button. lol. I just changed.
+ 2:30
+ Added the links from the"CSS_text" file on Blackboard to the Layout.cshtml. the site still works with them on.
