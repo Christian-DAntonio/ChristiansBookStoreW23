@@ -56,3 +56,5 @@ Action Items:
  Just built the project and it went well. Im making progress!!!!!!!!!!!!!!!!!!!!!!!!!
  4:52
  I almost lost the whole assignment!!!! I made one massive mistake that almost costed me the whole project with the Add project Refrence part!!!!!!!! Thankfullly I rembered that I can undo some changes on Visual Studio, So i'm good so far. I'm getting to the point of finally being done.
+ 4:58
+ Now all the projects have a refrence to each other. Can't wait to be done at long last!!!!!!!!!!!!!!!!!!
