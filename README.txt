@@ -62,3 +62,5 @@ Action Items:
  Moved some file to the new projects and edited some of them. I hope I'm actually near the end of the tunnel this time, because I can't afford to spend too much time on one project right know.
  5:19
  Updated the View start and viewport to navgate toward the destination i want and the projetc builds and runs fine. Great new is, I only have one more slide to go then I can finally hand this project in.
+ 5:33
+ Alright, I'm finally don. I made sure that I did everything and did everythin corrrectly, I built and ran the project on browser ad it says that it works. after this commit. I'm handing it in.
