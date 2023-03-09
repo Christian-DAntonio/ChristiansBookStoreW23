@@ -63,7 +63,7 @@ namespace ChristiansBookStore
                 endpoints.MapControllerRoute(
                     name: "default",
                     // Here is the default welcome pattern
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

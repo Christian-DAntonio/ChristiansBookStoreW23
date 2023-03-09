@@ -58,3 +58,5 @@ Action Items:
  I almost lost the whole assignment!!!! I made one massive mistake that almost costed me the whole project with the Add project Refrence part!!!!!!!! Thankfullly I rembered that I can undo some changes on Visual Studio, So i'm good so far. I'm getting to the point of finally being done.
  4:58
  Now all the projects have a refrence to each other. Can't wait to be done at long last!!!!!!!!!!!!!!!!!!
+ 5:09
+ Moved some file to the new projects and edited some of them. I hope I'm actually near the end of the tunnel this time, because I can't afford to spend too much time on one project right know.
