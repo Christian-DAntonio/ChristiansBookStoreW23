@@ -42,3 +42,5 @@ Action Items:
  2:47
  There where some errors with the dropdown menu that he wanted, but with a little bit of help from one of my classmates, I got it work. i'm nearing the completion of this assignment.
  I can't wait!!!!!!!!!!!!!!!
+ 3:03
+ More projects within the project? LOL! But I got them in without error with a bit of assistance from another classmate.
