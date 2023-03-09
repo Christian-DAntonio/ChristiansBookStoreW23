@@ -45,4 +45,6 @@ Action Items:
  3:03
  More projects within the project? LOL! But I got them in without error with a bit of assistance from another classmate.
  3:21
- Just downlaoded the rRelational and SQL server packages.
+ Just downlaoded the relational and SQL server packages.
+ 3:46
+ After alot of trouble with the other 3 projects, I finally got them to work properly. I had the wrong version when makin the the other 3 projects. almost done.
