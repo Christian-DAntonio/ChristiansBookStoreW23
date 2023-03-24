@@ -69,3 +69,5 @@ Action Items:
  On Startup.cs, while I was updating line 33, I got an error that stated it didn't understand what the Adddatabase part was, but it did understand the class. I'm now supposed to look for a solution.
  3:41
  Alright so I remade that one new project, which was ChristiansBooks.DataAccess. I hope it shows up on the Github repository.
+ 3:45
+ And It didn't. Looks like I have to delete it.
