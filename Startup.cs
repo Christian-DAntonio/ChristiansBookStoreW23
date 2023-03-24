@@ -30,9 +30,9 @@ namespace ChristiansBookStore
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDatabaseDeveloperPageExceptionFilter();  // Got an error. it doesnt undertsand the method, but it does understand the class (the 'serverices')
+            // services.AddDatabaseDeveloperPageExceptionFilter();  // Got an error. it doesnt undertsand the method, but it does understand the class (the 'serverices')
 
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            services.AddDefaultIdentity<IdentityUser>() // I removed the options => options.SignIn.RequireConfirmedAccount = true part of this.
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
 

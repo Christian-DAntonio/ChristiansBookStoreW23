@@ -71,3 +71,7 @@ Action Items:
  Alright so I remade that one new project, which was ChristiansBooks.DataAccess. I hope it shows up on the Github repository.
  3:45
  And It didn't. Looks like I have to delete it.
+ 4:08
+ Okay I made all of the projects again, and I'm about to commit the changes to Github. Please make this work. I don't have much time left and I really need it. they need to get on the repository.
+ 4:16
+ I finally figured out why they wont appear on the Github repository. I didn't change the location of the projects. I'm going to delet the 3 I just made after this commit and put them in the actaul project.
