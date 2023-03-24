@@ -77,3 +77,7 @@ Action Items:
  I finally figured out why they wont appear on the Github repository. I didn't change the location of the projects. I'm going to delet the 3 I just made after this commit and put them in the actaul project.
  4:24
  I made all of the projects AGAIN. Please let them appear on the Github repository, I actually changed where they would appear in too.
+ 4:25
+ AT LONG LAST THE PROJECTS ACTUALLY APPEARED ON THE GITHUB REPOSITORY!!!!!!!!!!!!!!!!!!!!!
+ 4:34
+ I'm just starting to redo the 3 project related coding things, and I'm hoping my website will finally come together.
