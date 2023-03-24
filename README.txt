@@ -64,3 +64,6 @@ Action Items:
  Updated the View start and viewport to navgate toward the destination i want and the projetc builds and runs fine. Great new is, I only have one more slide to go then I can finally hand this project in.
  5:33
  Alright, I'm finally don. I made sure that I did everything and did everythin corrrectly, I built and ran the project on browser ad it says that it works. after this commit. I'm handing it in.
+ Mar/24
+ 3:23
+ On Startup.cs, while I was updating line 33, I got an error that stated it didn't understand what the Adddatabase part was, but it did understand the class. I'm now supposed to look for a solution.
