@@ -86,3 +86,6 @@ Action Items:
  So i finally got that IdentityDb context problem solved a bit by installing a certain apckage onto the thing. The actual site still runs like normal
  2:46
  So i went back onto some of the previous steps and redid some of the past parts. The site is still running fine.
+ 3:39PM
+ Well, i tryed to catch up and I did made some changes. I got further in the actual project and got 3/4s of the actual project to work, but overall I couldn't get the things to work fully.
+ At least I tried.

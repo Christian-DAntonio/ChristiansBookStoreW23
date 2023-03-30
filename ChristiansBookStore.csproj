@@ -27,6 +27,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Assignment 2 Part 1 Hand In\ClassLibrary1\ChristiansBooks.DataAccess.csproj" />
     <ProjectReference Include="ChristiansBooks.Models\ChristiansBooks.Models.csproj" />
+    <ProjectReference Include="ChristiansBooks.Utility\ChristiansBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>
