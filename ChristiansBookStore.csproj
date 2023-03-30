@@ -24,4 +24,9 @@
     <Folder Include="wwwroot\css\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment 2 Part 1 Hand In\ClassLibrary1\ChristiansBooks.DataAccess.csproj" />
+    <ProjectReference Include="ChristiansBooks.Models\ChristiansBooks.Models.csproj" />
+  </ItemGroup>
+
 </Project>
