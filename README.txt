@@ -81,3 +81,6 @@ Action Items:
  AT LONG LAST THE PROJECTS ACTUALLY APPEARED ON THE GITHUB REPOSITORY!!!!!!!!!!!!!!!!!!!!!
  4:34
  I'm just starting to redo the 3 project related coding things, and I'm hoping my website will finally come together.
+ March/30/2023
+ 2:31 PM
+ So i finally got that IdentityDb context problem solved a bit by installing a certain apckage onto the thing. The actual site still runs like normal
